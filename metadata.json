@@ -1,0 +1,9 @@
+{
+  "name": "EcoSense AAC - Comunicación Augmentativa Contextual y Multimodal",
+  "description": "Especificación de producto y tablero AAC predictivo asistido por visión artificial, geolocalización, seguimiento ocular y privacidad on-device.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
